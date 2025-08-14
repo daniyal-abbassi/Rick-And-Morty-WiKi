@@ -1,0 +1,11 @@
+.title:hover {
+    color: #0d6efd !important;
+}
+.title {
+    font-size: 1.8rem;
+}
+.active {
+    color: #0d6efd !important;
+    border-bottom: 4px solid #0d6efd !important;
+    font-weight: bold !important;
+}
